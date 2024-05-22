@@ -9,3 +9,7 @@ arch:
   - armhf
   - armv7
   - i386
+ports:
+  19132/udp: 19132
+ports_description:
+  19132/udp: 'Port of the server (Should only be changed for debugging on PC. Port needs to be on 19132 for the bypass to work on game consoles)'
