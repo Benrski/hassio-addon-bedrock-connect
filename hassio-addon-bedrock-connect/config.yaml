@@ -1,0 +1,11 @@
+name: 'BedrockConnect'
+description: 'Join any Minecraft Bedrock Edition server IP on Xbox One, Nintendo Switch, and PS4/PS5'
+version: '1.43.0'
+slug: 'bedrock_connect'
+init: false
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
